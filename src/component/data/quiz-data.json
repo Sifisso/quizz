@@ -1,0 +1,131 @@
+[
+    {
+      "category": "História",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "De quem é a famosa frase “Penso, logo existo”?",
+      "correct_answer": "Descartes",
+      "incorrect_answers": [
+        "Platão",
+        "Galileu Galilei",
+        "Sócrates"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quais o menor e o maior país do mundo?",
+      "correct_answer": "Vaticano e Rússia",
+      "incorrect_answers": [
+        "Moçambique e Tanzania",
+        "Portugal e China",
+        "Mônaco e Canadá"
+      ]
+    },
+    {
+      "category": "Animais",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Quanto é o tempo de gestação de uma leoa?",
+      "correct_answer": "4 Meses",
+      "incorrect_answers": ["9 Meses", "6 Meses", "3 Meses"]
+    },
+    {
+      "category": "Animais",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Qual o maior réptil do mundo?",
+      "correct_answer": "Crocodilo",
+      "incorrect_answers": [
+        "Camaleão",
+        "Lagarto",
+        "Tartaruga"
+      ]
+    },
+    {
+      "category": "Animais",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Os Humanos são carnívoros. Verdadeiro ou falso?",
+      "correct_answer": "Verdadeiro",
+      "incorrect_answers": ["Falso"]
+    },
+    {
+      "category": "Geografia",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Qual é a capital de Portugal:",
+      "correct_answer": "Liboa",
+      "incorrect_answers": ["Rio de Janeiro", "Dar es Salaam", "Kano"]
+    },
+    {
+      "category": "História",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Quando é que Moçambique proclamou a independência?",
+      "correct_answer": "1975",
+      "incorrect_answers": ["1492", "1963", "1987"]
+    },
+    {
+      "category": "Geografia",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Hidrosfera é referência para:",
+      "correct_answer": "Água",
+      "incorrect_answers": ["Ar", "Relevo", "Gelo"]
+    },
+    {
+      "category": "Geografia",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Qual evento natural ocorre na Litosfera?",
+      "correct_answer": "Terremoto",
+      "incorrect_answers": ["Tsuname", "Furacão", "Ciclone"]
+    },
+    {
+      "category": "Biologia",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "O que Mendel utilizava para fazer seus experimentos?",
+      "correct_answer": "Ervilhas",
+      "incorrect_answers": [
+        "Ratos",
+        "Animais",
+        "Azeitonas"
+      ]
+    },
+    {
+      "category": "Hitória",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Quem foi o primeiro presidente de Moçambique?",
+      "correct_answer": "Samora Machel",
+      "incorrect_answers": ["Joaquim Chissano", "Aramando Guebuza", "Filipe Nyusi"]
+    },
+    {
+      "category": "Poesia",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Quem é o dono da obra karingana ua karingana?",
+      "correct_answer": "José Craverinha",
+      "incorrect_answers": [
+        "Mr Bow",
+        "Carlos de Lima",
+        "Jean-Claude Van Damme"
+      ]
+    },
+    {
+      "category": "Poesia",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Essas Obras são de Mia Couto, excepto:",
+      "correct_answer": "Amor ao crescimento",
+      "incorrect_answers": [
+        "Terra sonâmbula",
+        "Mulheres de cinza",
+        "Antes de nascer o mundo"
+      ]
+    }
+  ]
+  
